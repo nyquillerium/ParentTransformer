@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  LoggingPlugin.cpp
+  Wrapper.cpp
+     Creating library C:\Users\100523799\Desktop\long\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.lib and object C:\Users\100523799\Desktop\long\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.exp
+  Generating code
+  All 182 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LoggingPlugin.vcxproj -> C:\Users\100523799\Desktop\long\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.dll
+  LoggingPlugin.vcxproj -> C:\Users\100523799\Desktop\long\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.pdb (Full PDB)
